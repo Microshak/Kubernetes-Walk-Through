@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pheRLc7sPQMWZZAJRlrtKNlMFpBg0m5an7rWTkowFa9iyZ7+nxz+GLlYclp7rfXAY/Dfh+OeHeCuevuft58fyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Source\\Kubernetes-Walk-Through\\3 LB\\AspNet_Secretes\\AspNet_Secretes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mroshak\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
